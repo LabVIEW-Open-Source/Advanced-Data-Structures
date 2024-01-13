@@ -16,6 +16,7 @@
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Test Circular Buffer.vi" Type="VI" URL="../_tests/Test Circular Buffer.vi"/>
 			<Item Name="Test Queue Operations.vi" Type="VI" URL="../_tests/Test Queue Operations.vi"/>
+			<Item Name="Test Stack Operations.vi" Type="VI" URL="../_tests/Test Stack Operations.vi"/>
 		</Item>
 		<Item Name="CircularBuffer.lvlib" Type="Library" URL="../CircularBuffer.lvlib"/>
 		<Item Name="Example Circular Buffer (Producer-Monitor).vi" Type="VI" URL="../Example Circular Buffer (Producer-Monitor).vi"/>

@@ -99,14 +99,23 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
 		</Item>
-		<Item Name="_incrementTailIndex.vi" Type="VI" URL="../_incrementTailIndex.vi">
+		<Item Name="_decrementHeadIndex.vi" Type="VI" URL="../_decrementHeadIndex.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^!!!!"!!%!!!!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!26G&amp;S;7&amp;O&gt;%*V:G:F=C"P&gt;81!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!16G&amp;S;7&amp;O&gt;%*V:G:F=C"J&lt;A!!91$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)%!!"Y!!!!!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16908288</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">794624</Property>
+		</Item>
+		<Item Name="_decrementTailIndex.vi" Type="VI" URL="../_decrementTailIndex.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^!!!!"!!%!!!!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!26G&amp;S;7&amp;O&gt;%*V:G:F=C"P&gt;81!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!16G&amp;S;7&amp;O&gt;%*V:G:F=C"J&lt;A!!91$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)%!!"Y!!!!!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16908288</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">794630</Property>
 		</Item>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
@@ -204,7 +213,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">276832272</Property>
 	</Item>
 	<Item Name="Queue-Push Element.vi" Type="VI" URL="../Queue-Push Element.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;0!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#G^W:8*G&lt;'^X:71!!!Z!5QBP&gt;G6S:GRP&gt;Q!!3E"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!45GFO:S"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!41(!!)!!"!!9!"E*V:G:F=A!!"!!!!":!5!!$!!!!!1!##76S=G^S)'FO)!!-1&amp;-(:7RF&lt;76O&gt;!!61(!!)!!"!!9!#5*V:G:F=C"J&lt;A"5!0!!$!!$!!1!"1!(!!A!#!!)!!A!#1!)!!I!#Q-!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!%!!!!!!"!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!B#G^W:8*G&lt;'^X:71!!!Z!5QBP&gt;G6S:GRP&gt;Q!!3E"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!45GFO:S"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!41(!!)!!"!!9!"E*V:G:F=A!!#E!B"':V&lt;'Q!!!1!!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"J&lt;C!!$%"4"W6M:7VF&lt;H1!&amp;5"Q!#!!!1!'!!F#&gt;7:G:8)A;7Y!6!$Q!!Q!!Q!%!!5!"Q!)!!E!#1!*!!I!#1!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!#1!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%A!!!"!!!!!!!1!.!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>

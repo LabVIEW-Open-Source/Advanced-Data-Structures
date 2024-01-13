@@ -37,6 +37,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">277356560</Property>
 		</Item>
+		<Item Name="Remove Buffer.vi" Type="VI" URL="../Remove Buffer.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!M&amp;%.J=G.V&lt;'&amp;S1H6G:G6S,GRW&lt;'FC&amp;6:B=GFB&lt;H2#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!!%V*J&lt;G=A1H6G:G6S,GRW9WRB=X-!%U"Q!#!!!1!&amp;!!:#&gt;7:G:8)!!%R!=!!?!!!P&amp;%.J=G.V&lt;'&amp;S1H6G:G6S,GRW&lt;'FC'&amp;:B=GFB&lt;H2#&gt;7:G:8*.98!O&lt;(:D&lt;'&amp;T=Q!45GFO:S"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!61(!!)!!"!!=!#5*V:G:F=EVB=!!71&amp;!!!Q!!!!%!!AFF=H*P=C"J&lt;C!!$E!Q`````Q2/97VF!!!:1(!!)!!"!!=!$%*V:G:F=EVB=#"J&lt;A!!6!$Q!!Q!!Q!%!!9!#!!%!!1!"!!%!!E!#A!%!!M$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!!!!!!")!!!!!!1!-!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1090519042</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">786448</Property>
+		</Item>
 	</Item>
 	<Item Name="Create VariantBufferMap.vi" Type="VI" URL="../Create VariantBufferMap.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%B!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!?!!!P&amp;%.J=G.V&lt;'&amp;S1H6G:G6S,GRW&lt;'FC'&amp;:B=GFB&lt;H2#&gt;7:G:8*.98!O&lt;(:D&lt;'&amp;T=Q!45GFO:S"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!61(!!)!!"!!5!#5*V:G:F=EVB=!!71&amp;!!!Q!!!!%!!AFF=H*P=C"J&lt;C!!$5!$!!&gt;C&gt;7:4;8JF!&amp;1!]!!-!!-!"!!%!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!!!!%!#1!!!!!</Property>
@@ -91,14 +100,5 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
-	</Item>
-	<Item Name="Remove Buffer.vi" Type="VI" URL="../Remove Buffer.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!M&amp;%.J=G.V&lt;'&amp;S1H6G:G6S,GRW&lt;'FC&amp;6:B=GFB&lt;H2#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!!%V*J&lt;G=A1H6G:G6S,GRW9WRB=X-!%U"Q!#!!!1!&amp;!!:#&gt;7:G:8)!!%R!=!!?!!!P&amp;%.J=G.V&lt;'&amp;S1H6G:G6S,GRW&lt;'FC'&amp;:B=GFB&lt;H2#&gt;7:G:8*.98!O&lt;(:D&lt;'&amp;T=Q!45GFO:S"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!61(!!)!!"!!=!#5*V:G:F=EVB=!!71&amp;!!!Q!!!!%!!AFF=H*P=C"J&lt;C!!$E!Q`````Q2/97VF!!!:1(!!)!!"!!=!$%*V:G:F=EVB=#"J&lt;A!!6!$Q!!Q!!Q!%!!9!#!!%!!1!"!!%!!E!#A!%!!M$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!!!!!!")!!!!!!1!-!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">269230096</Property>
 	</Item>
 </LVClass>
