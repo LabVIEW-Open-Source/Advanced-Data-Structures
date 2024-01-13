@@ -15,7 +15,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Test Circular Buffer.vi" Type="VI" URL="../_tests/Test Circular Buffer.vi"/>
+			<Item Name="Test Preview Element.vi" Type="VI" URL="../_tests/Test Preview Element.vi"/>
 			<Item Name="Test Queue Operations.vi" Type="VI" URL="../_tests/Test Queue Operations.vi"/>
+			<Item Name="Test Dequeue Element.vi" Type="VI" URL="../_tests/Test Dequeue Element.vi"/>
 			<Item Name="Test Stack Operations.vi" Type="VI" URL="../_tests/Test Stack Operations.vi"/>
 		</Item>
 		<Item Name="CircularBuffer.lvlib" Type="Library" URL="../CircularBuffer.lvlib"/>

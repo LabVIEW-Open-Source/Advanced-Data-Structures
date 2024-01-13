@@ -108,7 +108,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">794624</Property>
 		</Item>
-		<Item Name="_decrementTailIndex.vi" Type="VI" URL="../_decrementTailIndex.vi">
+		<Item Name="_incrementTailIndex.vi" Type="VI" URL="../_incrementTailIndex.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^!!!!"!!%!!!!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!26G&amp;S;7&amp;O&gt;%*V:G:F=C"P&gt;81!3%"Q!"Y!!#Q51WFS9X6M98*#&gt;7:G:8)O&lt;(:M;7)66G&amp;S;7&amp;O&gt;%*V:G:F=CZM&gt;G.M98.T!!!16G&amp;S;7&amp;O&gt;%*V:G:F=C"J&lt;A!!91$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)%!!"Y!!!!!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16908288</Property>
